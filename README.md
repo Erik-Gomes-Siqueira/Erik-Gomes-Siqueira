@@ -32,7 +32,7 @@
   <div style="display: inline_block">
  <h3>Interessado 👀</h3>
   <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-  <img align="center" alt="SAAS" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
+  <img align="center" alt="SASS" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
 </div>
   
  ## 
@@ -45,7 +45,7 @@
   <div>
   <h3>Contados e Redes Sociais</h3>
   <a href="https://instagram.com/eriksangomes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-B53033?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:erikgomessiqueira@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href = "mailto:erikgomessiqueira@gmail.com?"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/erik-gomes-siqueira-893a4b1b9" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
   
@@ -54,5 +54,5 @@
  #### Como fiz meu README de perfil
   - Veja o vídeo no canal da [Rafaella Ballerini](https://www.youtube.com/watch?v=TsaLQAetPLU), ela explica como fazer tudo.👍
   - Os Cards acima são obtidos do repositório [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats).
-  - Os Emblemas acima consegui no site <https://dev.to/envoy_/150-badges-for-github-pnk>.
-  - E a animação é so ver o vídeo.
+  - Os Emblemas obitive do site <https://dev.to/envoy_/150-badges-for-github-pnk>.
+  - E a animação é so ver o [vídeo](https://www.youtube.com/watch?v=TsaLQAetPLU).
