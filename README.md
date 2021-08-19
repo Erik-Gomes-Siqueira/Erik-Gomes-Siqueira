@@ -8,7 +8,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erik-Gomes-Siqueira&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
 </div>
 <br>
-
+ 
+ ![Snake animation](https://github.com/Erik-Gomes-Siqueira/Erik-Gomes-Siqueira/blob/output/github-contribution-grid-snake.svg) 
+ 
+ <br>
  
 <div style="display: inline_block">
  <h3>Estudando 📚</h3>
@@ -39,9 +42,6 @@
  
  <br>
  
-![Snake animation](https://github.com/Erik-Gomes-Siqueira/Erik-Gomes-Siqueira/blob/output/github-contribution-grid-snake.svg) 
- 
- <br>
   <div>
   <h3>Contados e Redes Sociais</h3>
   <a href="https://instagram.com/eriksangomes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-B53033?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -51,7 +51,7 @@
   
   ##
  
- #### Como fiz meu README de perfil
+ ####  _Como fiz meu README de perfil_
   - Veja o vídeo no canal da [Rafaella Ballerini](https://www.youtube.com/watch?v=TsaLQAetPLU), ela explica como fazer tudo.👍
   - Os Cards acima são obtidos do repositório [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats).
   - Os Emblemas obitive do site <https://dev.to/envoy_/150-badges-for-github-pnk>.
