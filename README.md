@@ -1,5 +1,5 @@
 ## Olá, eu sou o Erik, seja bem vindo ao meu perfil!😁
- Olá meu nome é Erik e sou estudante de programação desde 2019. Atualmente estou estudando no Instituto Federal do Espírito Santo para concluir o Ensino Médio e desenvolvendo algumas aplicações para automação residencial usando React Native, gerando várias mini aplicações diferentes que podem ser usadas como exemplo. Almejo me tornoar no futuro um desenvolvedor Frontend e capaz de desenvolver soluções para o Backend também. Desde já muito obrigado por visitar o meu perfil.
+ Olá meu nome é Erik e sou estudante de programação desde 2019. Atualmente estou estudando no Instituto Federal do Espírito Santo para concluir o Ensino Médio e desenvolvendo algumas aplicações para automação residencial usando React Native, gerando várias mini aplicações diferentes que podem ser usadas como exemplo. Almejo me tornar no futuro um desenvolvedor Frontend e capaz de desenvolver soluções para o Backend também. Desde já muito obrigado por visitar o meu perfil.
  
  <br>
  <div>
