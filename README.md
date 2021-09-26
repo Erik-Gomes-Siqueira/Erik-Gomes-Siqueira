@@ -3,13 +3,13 @@
  
  <br>
  <div>
-  <a href="https://github.com/Erik-Gomes-Siqueira">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Erik-Gomes-Siqueira&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erik-Gomes-Siqueira&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
+  <a href="https://github.com/erikgomessiqueira">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=erikgomessiqueira&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erikgomessiqueira&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
 </div>
 <br>
  
- ![Snake animation](https://github.com/Erik-Gomes-Siqueira/Erik-Gomes-Siqueira/blob/output/github-contribution-grid-snake.svg) 
+ ![Snake animation](https://github.com/erikgomessiqueira/erikgomessiqueira/blob/output/github-contribution-grid-snake.svg) 
  
  <br>
  
