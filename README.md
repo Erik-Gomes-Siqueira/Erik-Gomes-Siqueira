@@ -8,8 +8,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erikgomessiqueira&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
 </div>
 <br>
- 
- ![Snake animation](https://github.com/erikgomessiqueira/erikgomessiqueira/blob/output/github-contribution-grid-snake.svg) 
+
  
  <br>
  
@@ -55,4 +54,3 @@
   - Veja o vídeo no canal da [Rafaella Ballerini](https://www.youtube.com/watch?v=TsaLQAetPLU), ela explica como fazer tudo.👍
   - Os Cards acima são obtidos do repositório [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats).
   - Os Emblemas obitive do site <https://dev.to/envoy_/150-badges-for-github-pnk>.
-  - E a animação é so ver o [vídeo](https://www.youtube.com/watch?v=TsaLQAetPLU).
