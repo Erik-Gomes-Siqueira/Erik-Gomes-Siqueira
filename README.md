@@ -1,5 +1,7 @@
 ## Olá, eu sou o Erik, seja bem vindo ao meu perfil!😁
- Olá meu nome é Erik e sou estudante de programação desde 2019. Atualmente estou estudando no Instituto Federal do Espírito Santo para concluir o Ensino Médio e desenvolvendo algumas aplicações para automação residencial usando React Native, gerando várias mini aplicações diferentes que podem ser usadas como exemplo. Almejo me tornar no futuro um desenvolvedor Frontend e capaz de desenvolver soluções para o Backend também. Desde já muito obrigado por visitar o meu perfil.
+ - Estudante de programação desde 2019.
+ - Atuando no desenvolvimento de aplicações mobile utilizando Flutter e React Native.
+ - Desenvolvedor de aplicações web utilizando ReactJS e NodeJS.
  
  <br>
  <div>
@@ -24,6 +26,8 @@
   <br/>
   <br/>
   <img align="center" alt="SASS" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
+  <img align="center" alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
+  <img align="center" alt="Flutter" src="https://img.shields.io/badge/Flutter-5BC2F0?style=for-the-badge&logo=flutter&logoColor=white">
 </div>
  
  ##
